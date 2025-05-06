@@ -1,3 +1,4 @@
+// João Victor de Oliveira & Gabriela Mota Lages Gomes
 #include <GL/glut.h>
  #include <GL/freeglut.h>
  #include <iostream>
